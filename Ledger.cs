@@ -62,7 +62,7 @@ public class LedgerMod(
     private static readonly List<string> AllDogtags =
     [
         "59f32c3b86f77472a31742f0","6662ea05f6259762c56f3189","6662e9f37fa79a6d83730fa0",
-        "6764207f2fa5e32733055c4a","6764202ae307804338014c1a","68418091b5b0c9e4c60f0e7a","68f15e53103c5d9d4f022c78",
+        "6764207f2fa5e32733055c4a","6764202ae307804338014c1a","68418091b5b0c9e4c60f0e7a","68f15e53103c5d9d4f022c78","68fb4157b280c103230e3b3c",
         "59f32bb586f774757e1e8442","6662e9cda7e0b43baa3d5f76","6662e9aca7e0b43baa3d5f74",
         "684181208d035f60230f63f9","684180bc51bf8645f7067bc8","675dcb0545b1a2d108011b2b",
         "675dc9d37ae1a8792107ca96","68f15cf222c8979ee308f495","68fb41120760c7891606613c"
@@ -76,7 +76,7 @@ public class LedgerMod(
     private static readonly List<string> UsecDogtags =
     [
         "59f32c3b86f77472a31742f0","6662ea05f6259762c56f3189","6662e9f37fa79a6d83730fa0",
-        "6764207f2fa5e32733055c4a","6764202ae307804338014c1a","68418091b5b0c9e4c60f0e7a","68f15e53103c5d9d4f022c78"
+        "6764207f2fa5e32733055c4a","6764202ae307804338014c1a","68418091b5b0c9e4c60f0e7a","68f15e53103c5d9d4f022c78","68fb4157b280c103230e3b3c"
     ];
 
     private readonly Dictionary<string, string> _resolvedItems = new(StringComparer.OrdinalIgnoreCase);
