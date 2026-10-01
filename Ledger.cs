@@ -97,7 +97,7 @@ public class LedgerMod(
     private static readonly HashSet<string> StackableRewardKeys = new(StringComparer.OrdinalIgnoreCase)
     {
         "m855a1", "50bmg", "m80", "pbp", "545bp", "762ps", "m61", "76254high",
-        "m62", "76239high", "545bt", "m855", "545bs", "338fmj"
+        "m62", "76239high", "545bt", "m855", "545bs", "338fmj", "magnum", "ap20"
     };
 
     private static readonly Dictionary<string, string[]> ItemAliases = new(StringComparer.OrdinalIgnoreCase)
